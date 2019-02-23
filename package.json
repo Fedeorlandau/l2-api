@@ -1,0 +1,26 @@
+{
+  "name": "l2-api",
+  "version": "1.0.0",
+  "description": "Lineage 2 API for managing databases.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fedeorlandau/l2-api.git"
+  },
+  "keywords": [
+    "lineage2",
+    "l2off",
+    "l2",
+    "l2j",
+    "lineage"
+  ],
+  "author": "Federico Orlandau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fedeorlandau/l2-api/issues"
+  },
+  "homepage": "https://github.com/Fedeorlandau/l2-api#readme"
+}
