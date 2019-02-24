@@ -1,6 +1,6 @@
 {
   "name": "l2-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lineage 2 API for managing databases.",
   "main": "index.js",
   "scripts": {
@@ -22,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/Fedeorlandau/l2-api/issues"
   },
-  "homepage": "https://github.com/Fedeorlandau/l2-api#readme"
+  "homepage": "https://github.com/Fedeorlandau/l2-api#readme",
+  "dependencies": {
+    "knex": "^0.16.3",
+    "mssql": "^4.1.0"
+  }
 }
