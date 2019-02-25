@@ -43,6 +43,17 @@ Now you should be able to do:
 const topPVP = await l2.getTopPVP(20);
 ```
 
+## Available functions
+
+## Account
+* `l2.getAccountByName('account_name')`
+
+## Chars
+* `l2.getCharByName('char_name')`
+* `l2.getTopPVP(limit)`
+* `l2.getTopPK(limit)`
+
+
 
 [downloads-image]: https://img.shields.io/npm/dt/l2-api.svg
 
